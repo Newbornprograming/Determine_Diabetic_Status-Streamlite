@@ -16,12 +16,14 @@ Diabetes can cause DEATH
 
 # Interfaces
 ## Homepage
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Homepage.png?raw=true) 
+![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/home1.png?raw=true) 
+![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/home1.png?raw=true) 
 ## About Us
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/About%20us.png?raw=true)
-## Help Page
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Bantuan.png?raw=true) 
-## Consultation Page
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Konsultasi%20Page.png?raw=true)
-## Implementation
-![alt text](https://github.com/WaduheX99/Inner-Peace/blob/main/interface/Pengaplikasian.png?raw=true)
+![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/about1.png?raw=true) 
+![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/about2.png?raw=true) 
+## Visualise
+![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/visual1.png?raw=true) 
+![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/visual2.png?raw=true) 
+
+
+
