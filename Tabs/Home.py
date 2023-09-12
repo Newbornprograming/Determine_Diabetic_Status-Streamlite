@@ -15,8 +15,10 @@ from Tabs import visualise
 import web_functions as wf
 from web_functions import load_data, predict
 from Tabs import Home
+from PIL import Image, ImageOps
 
 Tabs = {"Beranda": Home}
+
 
 def redirect():
     return st.experimental_set_query_params()
@@ -24,6 +26,13 @@ def redirect():
 
 def app(df, x, y):
     st.title('Determine Your Diabetic Status')
+    image = Image.open('Diabetes.png')
+    # Mengurangi ukuran gambar
+    new_size = (400, 400)  # Ukuran baru yang diinginkan
+    resized_image = image.resize(new_size)
+
+    st.image(resized_image)
+
     col1, col2, col3 = st.columns(3)
     pass_validation = True
     errorMsg = []
