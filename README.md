@@ -17,7 +17,7 @@ Diabetes can cause DEATH
 # Interfaces
 ## Homepage
 ![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/home1.png?raw=true) 
-![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/home1.png?raw=true) 
+![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/home2.png?raw=true) 
 ## About Us
 ![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/about1.png?raw=true) 
 ![alt text](https://github.com/Newbornprograming/Determine_Diabetic_Status-Streamlite/blob/main/interface/about2.png?raw=true) 
